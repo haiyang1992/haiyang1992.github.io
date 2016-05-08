@@ -1,5 +1,5 @@
 ---
-title: Haiyang Han
+title:
 permalink: /
 ---
 About Me

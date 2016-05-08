@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Haiyang Han"
-title_separator          : "|"
+title_separator          : "-"
 name                     : "Haiyang Han"
 description              : "Personal website of Haiyang Han. Still under construction!!"
 url                      : "https://haiyang1992.github.io" 
