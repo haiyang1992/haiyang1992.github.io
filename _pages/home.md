@@ -1,5 +1,5 @@
 ---
-title: Haiyang Han | Northwestern University
+title: Haiyang Han - Northwestern University
 permalink: /
 ---
 About Me
