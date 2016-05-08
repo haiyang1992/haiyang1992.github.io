@@ -4,7 +4,7 @@ permalink: /
 ---
 About Me
 -----------
-Here is a link to my [resume](users.eecs.northwestern.edu/~hhu010/docs/cv_hhy.pdf).
+Here is a link to my [resume](https://users.eecs.northwestern.edu/~hhu010/docs/cv_hhy.pdf).
 
 Contact
 -----------
