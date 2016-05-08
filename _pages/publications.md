@@ -2,5 +2,4 @@
 title: Publications
 permalink: /publications/
 ---
-Publications
-=======
+Oops, you might just need to wait a little longer

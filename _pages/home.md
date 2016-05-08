@@ -1,10 +1,8 @@
 ---
-title: Haiyang Han | Northwestern University
+title: Haiyang Han
 permalink: /
 ---
-Haiyang Han
-=======
-About
+About Me
 -----------
 Here is a link to my [resume](users.eecs.northwestern.edu/~hhu010/docs/cv_hhy.pdf).
 
