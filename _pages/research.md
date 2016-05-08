@@ -1,0 +1,6 @@
+---
+permalink: /research/
+---
+Research
+=======
+Interests
