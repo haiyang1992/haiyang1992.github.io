@@ -35,7 +35,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "pipiloverock"
 facebook:
   username               :
   app_id                 :
@@ -47,12 +47,13 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+      - "https://www.linkedin.com/in/haiyang-han-208029107"
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-77449307-1"
 
 # Google AdSense
 google_ad_client         :
@@ -66,25 +67,25 @@ author:
   bio              : "I am currently pursuing a Ph.D. degree at Northwestern University"
   location         : "Evanston, Illinois"
   email            : "haiyanghan2020@u.northwestern.edu"
-  uri              :
+  uri              : "haiyang1992.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "haiyang1992@gmail.com"
   foursquare       :
-  github           :
-  google_plus      :
+  github           : "haiyang1992"
+  google_plus      : "haiyang1992"
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "haiyang1992@gmail.com"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "pipiloverock"
   vine             :
   weibo            :
   xing             :
