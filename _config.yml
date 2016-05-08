@@ -220,7 +220,7 @@ defaults:
       related: true
 
 # Defaults for pages
-include: ["_pages"]
+#include: ["_pages"]
 defaults:
   # _pages
   - scope:
