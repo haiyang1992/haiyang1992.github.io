@@ -12,5 +12,5 @@ Here is a link to my [resume](https://users.eecs.northwestern.edu/~hhu010/docs/c
 
 Contact
 -----------
-Address: Technological Institute L466, 2145 Sheridan Road, Evanston, IL 60208, USA
+Address: Technological Institute L466, 2145 Sheridan Road, Evanston, IL 60208, USA  
 Email: [haiyanghan2020@u.northwestern.edu](mailto:haiyanghan2020@u.northwestern.edu)
