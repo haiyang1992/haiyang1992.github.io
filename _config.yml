@@ -8,10 +8,10 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Haiyang Han"
-title_separator          : "-"
+title_separator          : "|"
 name                     : "Haiyang Han"
 description              : "Personal website of Haiyang Han. Still under construction!!"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://haiyang1992.github.io" 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -204,3 +204,16 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# Defaults for posts
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      read_time: false
+      comments: true
+      share: true
+      related: true
