@@ -15,4 +15,3 @@ permalink: /blog/
 {% endfor %}
 
 {% include paginator.html %}
-{% endfor %}
