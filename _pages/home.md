@@ -13,7 +13,7 @@ Here is a link to my [resume](https://users.eecs.northwestern.edu/~hhu010/docs/c
 ### Contact
 
 <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Address: Technological Institute L466, 2145 Sheridan Road, Evanston, IL 60208, USA</li>  
-<li><a href="mailto:{{ site.author.email }}"><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label_with_colon }}haiyanghan2020@u.northwestern.edu</a></li>
+<li><a href="mailto:{{ site.author.email }}"><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label_colon }}haiyanghan2020@u.northwestern.edu</a></li>
 
 ### Follow Me On:
 <ul class="social-icons">
