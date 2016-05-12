@@ -2,7 +2,6 @@
 layout: archive
 title: Blog
 permalink: /blog/
-author_profile: false
 ---
 
 {% include base_path %}
@@ -10,7 +9,7 @@ author_profile: false
 {% for post in site.posts %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {% if year != written_year %}
-    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+    <h2 id="{{ year }}" class="archive__subtitle">{{ year }}</h2>
     {% capture written_year %}{{ year }}{% endcapture %}
   {% endif %}
   {% include archive-single.html %}
