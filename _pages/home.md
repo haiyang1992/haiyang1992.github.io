@@ -12,14 +12,11 @@ Here is a link to my [resume](https://users.eecs.northwestern.edu/~hhu010/docs/c
 
 ### Contact
 
-Address: Technological Institute L466, 2145 Sheridan Road, Evanston, IL 60208, USA  
-Email: [haiyanghan2020@u.northwestern.edu](mailto:haiyanghan2020@u.northwestern.edu)
+<li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Address: Technological Institute L466, 2145 Sheridan Road, Evanston, IL 60208, USA</li>  
+<li><a href="mailto:{{ site.author.email }}"><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> Email: haiyanghan2020@u.northwestern.edu</a></li>
 
-### Social Networking
+### Follow Me On:
 <ul class="social-icons">
-  {% if site.author.email %}
-   <li><a href="mailto:{{ site.author.email }}"><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label }}</a></li>
-  {% endif %}
   {% if site.twitter.username %}
    <li><a href="https://twitter.com/{{ site.twitter.username }}"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
   {% endif %}
