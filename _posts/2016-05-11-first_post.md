@@ -4,7 +4,7 @@ excerpt: "Testing the post functionality"
 ---
 Testing the post functionality
 
-{% highlight ruby %}
+```ruby
 def show
   @widget = Widget(params[:id])
   respond_to do |format|
@@ -12,4 +12,4 @@ def show
     format.json { render json: @widget }
   end
 end
-{% endhighlight %}
+```
