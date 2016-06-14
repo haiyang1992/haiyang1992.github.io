@@ -6,7 +6,7 @@ permalink: /
 
 I am a Ph.D. student at Northwestern University. My major is in Computer Engineering and my research interest lies in computer architecture. I am also a graduate research assistant at PARAG@N, the Parallel Architecture Group at Northwestern, led by Professor [Nikos Hardavellas](http://users.eecs.northwestern.edu/~hardav/).
 
-In June, I will be starting a summer internship at Hewlett Packard Labs in Palo Alto, California.
+Right now, I am working at Hewlett Packard Labs' Network and Mobility Lab in Palo Alto, California as a summer research intern.
 
 Here is a link to my [resume](https://users.eecs.northwestern.edu/~hhu010/docs/cv_hhy.pdf).
 
