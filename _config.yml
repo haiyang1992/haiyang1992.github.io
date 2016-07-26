@@ -217,7 +217,7 @@ defaults:
       layout: single
       read_time: false
       comments: true
-      share: true
+      share: false
       related: false
       author_profile: true
   # _pages`
