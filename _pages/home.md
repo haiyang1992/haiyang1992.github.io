@@ -4,16 +4,14 @@ permalink: /
 ---
 ### About Me
 
-I am a Ph.D. student at Northwestern University. My major is in Computer Engineering and my research interest lies in computer architecture. I am also a graduate research assistant at PARAG@N, the Parallel Architecture Group at Northwestern, led by Professor [Nikos Hardavellas](http://users.eecs.northwestern.edu/~hardav/).
-
-Right now, I am working at Hewlett Packard Labs' Network and Mobility Lab in Palo Alto, California as a summer research intern.
+I am a 2nd Ph.D. student at Northwestern University. My major is in Computer Engineering and my research interest lies in computer architecture. I am also a graduate research assistant at PARAG@N, the Parallel Architecture Group at Northwestern, led by Professor [Nikos Hardavellas](http://users.eecs.northwestern.edu/~hardav/).
 
 Here is a link to my [resume](https://users.eecs.northwestern.edu/~hhu010/docs/cv_hhy.pdf).
 
 ### Contact
 
 <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Address: Technological Institute L466, 2145 Sheridan Road, Evanston, IL 60208, USA  
-<i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> Email: <a href="mailto:{{ site.author.email }}">haiyanghan2020@u.northwestern.edu</a>
+<i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> Email: <a href="mailto:{{ site.author.email }}">haiyang.han@eecs.northwestern.edu</a>
 
 ### Follow Me On:
 <ul class="social-icons">

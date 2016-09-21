@@ -8,4 +8,4 @@ I am an active lover for indie, alternative, and post rock. Some of my favorite 
 
 My favorite book and movie are both ***The Lord of the Rings*** by J.R.R. Tolkien. I've recently started on the Wuxia(武侠) series by Jin Yong(金庸). Though my progress is slow, I hope to finish them by the time I graduate.
 
-Places I have lived for at least a few months: Evanston, IL; Hong Kong; Beijing, China; Philadephia, PA; New York City, NY; and finally my beloved hometown Xinzhou, China.
+Places I have lived for at least a few months: Evanston, IL; Palo Alto, CA; Hong Kong; Beijing, China; Philadephia, PA; New York City, NY; and finally my beloved hometown Xinzhou, China.
