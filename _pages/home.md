@@ -4,7 +4,7 @@ permalink: /
 ---
 ### About Me
 
-I am a 2nd Ph.D. student at Northwestern University. My major is in Computer Engineering and my research interest lies in computer architecture. I am also a graduate research assistant at PARAG@N, the Parallel Architecture Group at Northwestern, led by Professor [Nikos Hardavellas](http://users.eecs.northwestern.edu/~hardav/).
+I am a 2nd year Ph.D. student at Northwestern University. My major is in Computer Engineering and my research interest lies in computer architecture. I am also a graduate research assistant at PARAG@N, the Parallel Architecture Group at Northwestern, led by Professor [Nikos Hardavellas](http://users.eecs.northwestern.edu/~hardav/).
 
 Here is a link to my [resume](https://users.eecs.northwestern.edu/~hhu010/docs/cv_hhy.pdf).
 
