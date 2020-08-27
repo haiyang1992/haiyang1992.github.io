@@ -10,7 +10,7 @@ Here is a link to my [resume](https://users.eecs.northwestern.edu/~hhu010/docs/c
 
 ### Contact
 
-<i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Address: Seeley Mudd 3008, 2233 Tech Dr, Evanston, IL 60208, USA
+<i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Address: Seeley Mudd 3008, 2233 Tech Dr, Evanston, IL 60208, USA\
 
 <i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> Email: <a href="mailto:{{ site.author.email }}">haiyang.han@u.northwestern.edu</a>
 
