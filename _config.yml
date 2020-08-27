@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : "Haiyang Han"
 title_separator          : " - "
 name                     : "Haiyang Han"
-description              : "Personal website of Haiyang Han. Still under construction!!"
-url                      : "https://haiyang1992.github.io" 
+description              : "Personal website of Haiyang Han."
+url                      : "https://haiyang1992.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -35,7 +35,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "pipiloverock"
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -48,8 +48,8 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
       - "https://www.linkedin.com/in/haiyang-han-208029107"
-      - "https://twitter.com/pipiloverock"
-      - "https://www.facebook.com/haiyang.han.9"
+      # - "https://twitter.com/pipiloverock"
+      # - "https://www.facebook.com/haiyang.han.9"
 
 # Analytics
 analytics:
@@ -68,16 +68,16 @@ author:
   avatar           : "avatar.png"
   bio              : "I am currently pursuing a Ph.D. degree at Northwestern University."
   location         : "Evanston, Illinois"
-  email            : "haiyang.han@eecs.northwestern.edu"
+  email            : "haiyang.han@u.northwestern.edu"
   uri              : "https://haiyang1992.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "haiyang.han.9"
+  facebook         :
   foursquare       :
   github           : "haiyang1992"
-  google_plus      : "101160371494282674304"
+  google_plus      :
   keybase          :
   instagram        :
   lastfm           :
@@ -87,7 +87,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "pipiloverock"
+  twitter          :
   vine             :
   weibo            :
   xing             :
