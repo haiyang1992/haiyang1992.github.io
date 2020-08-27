@@ -6,7 +6,7 @@ permalink: /
 
 I am a Ph.D. candidate in computer engineering at Northwestern University. I am a graduate research assistant at PARAG@N, the Parallel Architecture Group at Northwestern, led by Professor [Nikos Hardavellas](http://users.eecs.northwestern.edu/~hardav/). Previously I received my bachelor's degree in computer engineering from the Hong Kong University of Science and Technology. My research currently focuses on integrating photonics in high-performance and energy-efficient computing systems.
 
-Here is a link to my [resume](https://users.eecs.northwestern.edu/~hhu010/docs/cv_hhy.pdf).
+Here is a link to my [resume](http://users.eecs.northwestern.edu/~hhu010/docs/cv_hhy.pdf).
 
 ### Contact
 
