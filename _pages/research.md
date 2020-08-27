@@ -6,9 +6,9 @@ permalink: /research/
 My research focuses on building high-performance and energy-efficient computing systems using photonics. To realized the promised benefits that photonic interconnects and emerging photonic memory devices, I try to redesign several aspects across the entire system stack. The goal is to lay the groundwork for realizable designs that can be quickly adapted in real life.
 
 ### Projects
-Datacenter Photonic Interconnect Laser Gating\
+Datacenter Photonic Interconnect Laser Gating
 
-Architectural Explorations of Optical Caches\
+Architectural Explorations of Optical Caches
 
 Early Opportunities of Optical Phase Change Memories (PCM)
 
