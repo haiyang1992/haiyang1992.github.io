@@ -19,3 +19,7 @@ Fall 2016, Fall 2017, {Spring, Winter, Fall} 2018, Spring 2019, Spring 2020
 
 MSIA-413 TA, Introduction to Database and Information Retrieval\
 Fall 2020
+
+EECS-100  Electrons, Photons, and Bits: Adventures in Electrical and Computer Engineering\
+Lecturer for "The Evolution of the (Micro)processor and Its Impact Upon Our Daily Life"\
+Spring 2019
