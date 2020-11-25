@@ -3,7 +3,7 @@ title: Publications
 permalink: /publications/
 ---
 ### Conference Publications
-"Pho$: A Case for Shared Optical Cache Hierarchies." **H. Han**, T. Alexoudi, C. Vagionas, N. Pleros, and N. Hardavellas. (**Under review**) of the 27th IEEE International Symposium on High-Performance Computer Architecture (**HPCA**), Seoul, Korea, February 2021.
+"Pho$: A Case for Shared Optical Cache Hierarchies." **H. Han**, T. Alexoudi, C. Vagionas, N. Pleros, and N. Hardavellas. (**Under review**) of the 48th ACM/IEEE International Symposium on Computer Architecture (**ISCA**), Valencia, Spain, June 2021.
 
 "Harnessing Path Divergence for Laser Control in Data Center Networks." Y. Demir, N. Terzenidis, **H. Han**, D. Syrivelis, G. T. Kanellos, N. Hardavellas, N. Pleros, S. Kandula, and F. Bustamante. In Proceedings of the 2017 IEEE Photonics Society Summer Topical Meeting Series (IEEE SUM), Optical Switching Technologies for Datacom and Computercom Applications (**OSDC**), San Juan, Puerto Rico, July 2017. Invited Paper. [[PDF](http://users.eecs.northwestern.edu/~hhu010/docs/2017IEEE_SUM_slac.pdf)]
 
