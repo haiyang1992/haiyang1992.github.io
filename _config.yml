@@ -82,7 +82,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-      - "https://www.linkedin.com/in/haiyang-han-208029107"
+      # - "https://www.linkedin.com/in/haiyang-han-208029107"
       # - "https://twitter.com/pipiloverock"
       # - "https://www.facebook.com/haiyang.han.9"
 
