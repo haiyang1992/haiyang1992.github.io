@@ -94,12 +94,12 @@ analytics:
 # Site Author
 author:
   name             : "Haiyang Han"
-  avatar           : "avatar.png"
+  avatar           : "/assets/avatar.png"
   bio              : "I am currently pursuing a Ph.D. degree at Northwestern University."
   location         : "Evanston, Illinois"
   email            : "haiyang.han@u.northwestern.edu"
-  uri              : "https://haiyang1992.github.io"
-   links:
+  # uri              : "https://haiyang1992.github.io"
+  links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:haiyang.han@u.northwestern.edu"
