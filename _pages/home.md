@@ -17,7 +17,7 @@ Here is a link to my [resume](http://users.eecs.northwestern.edu/~hhu010/docs/cv
 
 <i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> Email: <a href="mailto:{{ site.author.email }}">haiyang.han@u.northwestern.edu</a>
 
-### Follow Me On:
+<!-- ### Follow Me On:
 <ul class="social-icons">
   {% if site.twitter.username %}
   <li><a href="https://twitter.com/{{ site.twitter.username }}"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
@@ -34,4 +34,4 @@ Here is a link to my [resume](http://users.eecs.northwestern.edu/~hhu010/docs/cv
   {% if site.author.bitbucket %}
   <li><a href="http://bitbucket.org/{{ site.author.bitbucket }}"><i class="fa fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
   {% endif %}
-</ul>
+</ul> -->
