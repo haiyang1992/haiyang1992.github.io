@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
-#### [Browse by Categories](https://haiyang1992.github.io/blog/categories/){: .btn .btn--info} [Browse by Tags](https://haiyang1992.github.io/blog/tags/){: .btn .btn--info}
+<!-- #### [Browse by Categories](https://haiyang1992.github.io/blog/categories/){: .btn .btn--info} [Browse by Tags](https://haiyang1992.github.io/blog/tags/){: .btn .btn--info} -->
 
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
